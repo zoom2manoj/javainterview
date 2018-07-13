@@ -1,0 +1,131 @@
+Main Advantage of using String.
+various implementations of Collection.
+various implementations of map
+treemap vs hashmap
+internal implementations of hashmap and treemap
+why map is not part of collection
+collection hierarchy
+Special property of String in java.
+Why map is a part of collection stil it is not extended by collection
+What is collection.
+
+meaning of public and static in main method
+overloading and overriding
+searching and sorting in array algo/Complexity
+implementation of arrayList
+HashTable vs HashMap
+LinkedList vs ArrayList
+where we use arraylist and where we use linkedlist.
+Why string is immutable in Java.
+
+Difference Between ArrayList and Vector
+HashSet vs HashTable
+Various Implementations of List
+Stack
+Set
+Sorting in set
+HashCode
+HashMap
+Scnearios for using ArrayList and LinkedList
+for reversing a list of characters which one is used.
+If there is a method which is threadsafe(multithread Environment) in what scenarios which one is better either arrayList or LinedList.
+How we can iterate HashMap
+
+Suppose that there are two objects of Employee class e1 and e2.
+Employee object contains id and name.
+
+Itearte a map in java
+
+TCS
+
+// Core Java
+
+how we can sort a collection.
+set vs Sortedset vs treeset
+treemap
+load properties file / dynamic 
+StringBuilder and StringBuffer
+static varibales
+Factory Pattern
+Why we use Singleton
+stateless objects
+In a simple method if we create a object and 10 thread are using that object
+than how many total objects are created.
+Scope of object
+Garbadge Collection
+Finalize
+
+What is collection.
+internal working of hashmap
+what we have to take care when designing a hashmap key.
+what would happen if we call destroy method from service.
+How to make a class immutable.
+composition vs Aggregation
+Encapsulation vs Abstarction
+
+what are design patterns.
+Difference between factory and abstract factory design pattern
+What is singleton and factory patterns.
+give me  scenario where you can use singleton.
+oops features
+
+How set maintains uniqueness.
+Internal working of hashset/HashMap
+Write your own GC
+Create your own linked list
+String vs StringBuffer vs StringBuilder
+Where we use hashMap
+What is hashCode
+Iterate hashmap in java / internal working 
+Difference between set and list.
+What is the difference between literal and new way of string creation.
+Implement Singleton.
+Object have copy of variable or reference.
+State of object.
+ArrayList vs LinkedList.
+Collection Hierarchy.
+Why map is not part of Collection.
+How we overload a method.
+Structure of JVM.
+What is polymorphism. Overloading vs Overriding.
+How we can increase size of heap memory.
+Internal Implementation of Garbage collector.
+What is linkedList.
+How you can create own Custom Exceptions.
+Throw vs Throws
+How we handle nullpointer exception.
+What is Serialization and why we use this.
+
+
+Nagarro
+
+Implement Singleton In java/Synchronization and serialization
+Hibernate projection
+Hibernate Criteria
+N+1 problem and their resolutions.
+Create own arraylist
+ArrayList vs Array
+Immutable class in java. Why final is required in immutablity.
+jvm32 bit vs jvm 64 bit
+Encapsulation vs Abstraction
+ConcurrentHashMap
+ConcurrentHashMap vs HashTable
+DI vs IOC
+autowiring and types of autowiring. advantage and disadvantage of each.
+Application Server vs Web Server
+Transaction Write Behind
+Difference between Component and Service in Spring.
+
+
+
+SafeNet
+
+Singleton Design Pattern
+Immutable class in java. How can we create immutable class.
+OOPS Principle
+Disadvantage of Inheritance
+what is HashTable.
+
+
+
+
